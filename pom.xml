@@ -7,10 +7,10 @@
 <dependencies>
   <dependency>
     <groupId>junit</groupId>
-    <artifactId>junit</artifactId>
+    <artifactId>junit</artifactId> <!-- Or whatever JUnit you're using. -->
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
-</dependencies>
+</dependencies> 
 
 <distributionManagement>
     <repository>
